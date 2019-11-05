@@ -1,2 +1,1 @@
-# strong
-Strong's repo
+# Strong's repo
